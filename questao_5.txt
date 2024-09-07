@@ -1,0 +1,9 @@
+Ligue o primeiro interruptor e deixe-o ligado por alguns minutos (5 minutos, por exemplo). Isso aquece a lâmpada conectada a este interruptor.
+
+Após o tempo passar, desligue o primeiro interruptor e ligue o segundo interruptor.
+
+Vá até as salas das lâmpadas.
+
+A lâmpada que está acesa: Esta lâmpada é controlada pelo segundo interruptor (o que está ligado no momento da verificação).
+A lâmpada que está apagada, mas quente ao toque: Esta lâmpada é controlada pelo primeiro interruptor (o que foi ligado por um tempo e depois desligado).
+A lâmpada que está apagada e fria: Esta lâmpada é controlada pelo terceiro interruptor (o que nunca foi ligado).
